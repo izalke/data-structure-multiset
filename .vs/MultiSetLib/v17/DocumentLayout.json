@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dabib\\Desktop\\projekty\\4_semestr\\c#\\MultiSetLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{529ED917-2DF4-4F35-892E-013E70CDC3D8}|MultiSetLib\\MultiSetLib.csproj|c:\\users\\dabib\\desktop\\projekty\\4_semestr\\c#\\multisetlib\\multisetlib\\multiset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529ED917-2DF4-4F35-892E-013E70CDC3D8}|MultiSetLib\\MultiSetLib.csproj|solutionrelative:multisetlib\\multiset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529ED917-2DF4-4F35-892E-013E70CDC3D8}|MultiSetLib\\MultiSetLib.csproj|c:\\users\\dabib\\desktop\\projekty\\4_semestr\\c#\\multisetlib\\multisetlib\\imultiset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529ED917-2DF4-4F35-892E-013E70CDC3D8}|MultiSetLib\\MultiSetLib.csproj|solutionrelative:multisetlib\\imultiset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A5BEB7-81DA-46A4-A8C8-4903DA5BA525}|MultiTest\\MultiTest.vbproj|c:\\users\\dabib\\desktop\\projekty\\4_semestr\\c#\\multisetlib\\multitest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A5BEB7-81DA-46A4-A8C8-4903DA5BA525}|MultiTest\\MultiTest.vbproj|solutionrelative:multitest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\dabib\\Desktop\\projekty\\4_semestr\\c#\\MultiSetLib\\MultiTest\\Test.cs",
+              "RelativeDocumentMoniker": "MultiTest\\Test.cs",
+              "ToolTip": "C:\\Users\\dabib\\Desktop\\projekty\\4_semestr\\c#\\MultiSetLib\\MultiTest\\Test.cs",
+              "RelativeToolTip": "MultiTest\\Test.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAADcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:36:18.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMultiSet.cs",
+              "DocumentMoniker": "C:\\Users\\dabib\\Desktop\\projekty\\4_semestr\\c#\\MultiSetLib\\MultiSetLib\\IMultiSet.cs",
+              "RelativeDocumentMoniker": "MultiSetLib\\IMultiSet.cs",
+              "ToolTip": "C:\\Users\\dabib\\Desktop\\projekty\\4_semestr\\c#\\MultiSetLib\\MultiSetLib\\IMultiSet.cs",
+              "RelativeToolTip": "MultiSetLib\\IMultiSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:25:44.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultiSet.cs",
+              "DocumentMoniker": "C:\\Users\\dabib\\Desktop\\projekty\\4_semestr\\c#\\MultiSetLib\\MultiSetLib\\MultiSet.cs",
+              "RelativeDocumentMoniker": "MultiSetLib\\MultiSet.cs",
+              "ToolTip": "C:\\Users\\dabib\\Desktop\\projekty\\4_semestr\\c#\\MultiSetLib\\MultiSetLib\\MultiSet.cs",
+              "RelativeToolTip": "MultiSetLib\\MultiSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:25:15.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

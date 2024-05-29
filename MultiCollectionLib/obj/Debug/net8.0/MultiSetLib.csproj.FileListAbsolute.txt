@@ -1,0 +1,11 @@
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\bin\Debug\net8.0\MultiSetLib.deps.json
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\bin\Debug\net8.0\MultiSetLib.dll
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\bin\Debug\net8.0\MultiSetLib.pdb
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\obj\Debug\net8.0\MultiSetLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\obj\Debug\net8.0\MultiSetLib.AssemblyInfoInputs.cache
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\obj\Debug\net8.0\MultiSetLib.AssemblyInfo.cs
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\obj\Debug\net8.0\MultiSetLib.csproj.CoreCompileInputs.cache
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\obj\Debug\net8.0\MultiSetLib.dll
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\obj\Debug\net8.0\refint\MultiSetLib.dll
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\obj\Debug\net8.0\MultiSetLib.pdb
+C:\Users\dabib\Desktop\projekty\4_semestr\c#\MultiSetLib\MultiSetLib\obj\Debug\net8.0\ref\MultiSetLib.dll
